@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.abbott.mutiimgloader:mutiimgloader:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mutiimgloader-1.0.1.aar/832daad509b862e16745eff832b4170c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mutiimgloader-1.0.1.aar/832daad509b862e16745eff832b4170c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.abbott.mutiimgloader/mutiimgloader/1.0.1/91306bf548702a75f7c7d52d534fe83861359e8d/mutiimgloader-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

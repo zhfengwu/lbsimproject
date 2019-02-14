@@ -1,0 +1,1 @@
+include ':app', ':lmlibrary', ':voicelibrary', ':camera', ':reclib-qq', ':reclib-testemoticons'

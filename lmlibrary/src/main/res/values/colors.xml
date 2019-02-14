@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D79FE</color>
+    <color name="colorPrimaryDark">#FAFBFF</color>
+    <color name="colorAccent">#FAFBFF</color>
+    <color name="white">#FFFFFF</color>
+
+
+
+    <color name="text_color">#6f6f6f</color>
+    <color name="qmui_config_color_blue">@color/text_color</color>
+</resources>
